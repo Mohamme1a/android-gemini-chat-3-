@@ -1,0 +1,6 @@
+{
+  "name": "Android Gemini Chat",
+  "description": "A complete Android chat application powered by Gemini API featuring dynamic persona selection, Room Database local persistence, and Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
